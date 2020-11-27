@@ -1,6 +1,6 @@
 """
 Encrypt Decrypt
-Points 30
+
 
 Encrypt is a function that takes a string, -message-, as an attribute and will return None.
 Encrypt will:
@@ -106,7 +106,6 @@ print(Decrypt())
 
 """
 Hider
-Points 20
 
 Hider is a function that takes a string, -sentence- and a list of letters, -hide- as arguments.
 Hider will modify the words of -sentence- by changing the letters of the words by *
